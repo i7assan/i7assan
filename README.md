@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Hassan Hamdan.<br><br>Mobile and a Full-Stack Web Developer.<br>Currently Learning Ruby on Rails, NoSql Databases and Fundamentals of 3D Animations.<br><br>Passionate About Creating High Quality, Visually Appealing Digital Product.<br><br>"If you can think it you can make it"
+Hello, I'm Hassan Hamdan.<br><br>Mobile and a Full-Stack Developer.<br>Currently Learning Ruby on Rails, NoSql Databases and Fundamentals of 3D Animations.<br><br>Passionate About Creating High Quality, Visually Appealing Digital Product.<br><br>"If you can think it you can make it"
 
 
 ## 🌐 Socials:
