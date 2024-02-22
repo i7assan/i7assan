@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hassan Hamdan.<br><br>Mobile and a Full-Stack Web Developer.<br>I like making High Quality, Elegant and Visually Appealing Software.<br><br>"If you can think it you can make it"
+Hassan Hamdan.<br><br>Mobile and a Full-Stack Web Developer.<br>I like making High Quality, Elegant and Visually Appealing Software.
 
 
 ## 🌐 Socials:
