@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hassan Hamdan.<br><br>Mobile and a Full-Stack Web Developer.<br>I Create High Quality, Elegant and Visually Appealing Software.
 
+> *What I cannot create, I do not understand — Richard Feynman.*
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i7assan/) 
